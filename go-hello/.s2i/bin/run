@@ -9,4 +9,4 @@
 
 # Run the app
 echo "Starting app with spanish language"
-exec /opt/app-root/app --lag=es
+exec /opt/app-root/app --lag es
